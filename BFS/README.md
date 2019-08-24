@@ -4,7 +4,7 @@
 문제
 ----
  * [2309번: 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
-    * [송은영]()
+    * [송은영](https://github.com/SangBeo/algoStudy/blob/master/BFS/%EC%86%A1%EC%9D%80%EC%98%81/2309.md)
   
  * [2231번: 분해합](https://www.acmicpc.net/problem/2231)
  * [3085번: 사탕 게임](https://www.acmicpc.net/problem/3085)
