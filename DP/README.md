@@ -15,6 +15,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
   
  * [9465번: 스티커](https://www.acmicpc.net/problem/9465)
     * [JaeHoon](https://github.com/SangBeo/algoStudy/blob/master/DP/JaeHoon/9465.md)
+    * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/9465.md)
    
  * [2294번: 동전2](https://www.acmicpc.net/problem/2294)
       * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/2294.md)
