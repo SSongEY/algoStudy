@@ -15,7 +15,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
    
  * [2294번: 동전2](https://www.acmicpc.net/problem/2294)
  
- * [2193번: 이진수](https://www.acmicpc.net/problem/2193)
+ * [2193번: 이친수](https://www.acmicpc.net/problem/2193)
+      * [SunHong] (https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/2193.md)
  
  * [11726번: 2xn 타일링](https://www.acmicpc.net/problem/11726)
  
