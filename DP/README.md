@@ -12,6 +12,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
     * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/1463.md)
     * [JaeHoon](https://github.com/SangBeo/algoStudy/blob/master/DP/JaeHoon/1463.md)
     * [jaewoong](https://github.com/SangBeo/algoStudy/blob/master/DP/jaewoong/1463.md)
+    * [Eunyoung](https://github.com/SangBeo/algoStudy/blob/master/DP/Eunyoung/1463.md)
   
  * [1904번: 01타일](https://www.acmicpc.net/problem/1904)
     * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/1904.md)
@@ -25,6 +26,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
  
  * [2193번: 이친수](https://www.acmicpc.net/problem/2193)
       * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/2193.md)
+      * [Eunyoung](https://github.com/SangBeo/algoStudy/blob/master/DP/Eunyoung/2193.md)
  
  * [11726번: 2xn 타일링](https://www.acmicpc.net/problem/11726)
       * [Sora](https://github.com/SangBeo/algoStudy/blob/master/DP/Sora/11726.md)
