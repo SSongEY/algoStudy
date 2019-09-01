@@ -32,6 +32,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
  * [16500번: 문자열판별](https://www.acmicpc.net/problem/16500)
     * [Eunyoung](https://github.com/SangBeo/algoStudy/blob/master/DP/Eunyoung/16500.md)
     
-    
+ * [11055번: 가장 큰 증가부분 수열](https://www.acmicpc.net/problem/11055)
+     * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/11055.md)
  
  
