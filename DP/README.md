@@ -9,7 +9,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&proxyRefe
 문제
 ----
  * [1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
-    * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/1463.md)
+    * [SunHong] (https://github.com/SangBeo/algoStudy/blob/master/DP/SunHong/1463.md)
   
  * [9465번: 스티커](https://www.acmicpc.net/problem/9465)
    
