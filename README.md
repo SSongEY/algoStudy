@@ -15,7 +15,8 @@ Table of contents
 <!--ts-->
    * [완전 탐색(Brute-force Search)](https://github.com/SangBeo/algoStudy/blob/master/BFS/README.md)
    * [DP(Dynamic Programming)](https://github.com/SangBeo/algoStudy/blob/master/DP/README.md)
-   * [큐, 스택]()
+   * [Queue](https://github.com/SangBeo/algoStudy/blob/master/Queue/README.md)
+   * [스택]()
    * [DFS]()
    * [BFS]()
 <!--te-->
