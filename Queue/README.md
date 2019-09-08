@@ -13,7 +13,7 @@ https://kks227.blog.me/220781851401
  
  * [2164번: 카드2](https://www.acmicpc.net/problem/2164)
       * [Taesan](https://github.com/SangBeo/algoStudy/blob/master/Queue/Taesan/2164.md)
-      * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/Queue/SunHong/2164.md)
+      * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/Queue/SunHong/2165.md)
  
  * [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
    
