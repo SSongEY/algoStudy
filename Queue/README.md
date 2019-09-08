@@ -18,6 +18,7 @@ https://kks227.blog.me/220781851401
  * [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
    
  * [3078번: 좋은 친구](https://www.acmicpc.net/problem/3078)
+      * [Eunyoung](https://github.com/SangBeo/algoStudy/blob/master/Queue/Eunyoung/3078.md)
  
  * [10866번: 덱](https://www.acmicpc.net/problem/10866)
  
