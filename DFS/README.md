@@ -6,7 +6,7 @@
  * [11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
   
  * [1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
-  * [Sora](https://github.com/SangBeo/algoStudy/blob/master/DFS/Sora/1012.md)
+    * [Sora](https://github.com/SangBeo/algoStudy/blob/master/DFS/Sora/1012.md)
    
  * [1743번: 음식물 피하기](https://www.acmicpc.net/problem/1743)
  
