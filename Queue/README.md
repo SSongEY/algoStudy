@@ -16,7 +16,7 @@ https://kks227.blog.me/220781851401
       * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/Queue/SunHong/2165.md)
  
  * [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
-   
+      * [SunHong](https://github.com/SangBeo/algoStudy/blob/master/Queue/SunHong/10845.md)
  * [3078번: 좋은 친구](https://www.acmicpc.net/problem/3078)
       * [Eunyoung](https://github.com/SangBeo/algoStudy/blob/master/Queue/Eunyoung/3078.md)
  
